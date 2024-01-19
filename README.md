@@ -2,7 +2,7 @@
 Плагин для автоматической установки счета на ECUP.PRO
 
 # Для установки плагина необходимо:
-1. Скачать файл
+1. Скачать файл EcupPlugin.dll
 2. Скопировать его в папку C:\Users\{Имя вашего юзера}\AppData\Roaming\HearthstoneDeckTracker\Plugins
 3. Запусть DeckTracker
 4. Сверху в меню нажать options (настройки)
